@@ -13,6 +13,6 @@ Design and Implementation of Electronic Health Records using Blockchain Technolo
 
 #Supervised by
 --------------------------------
-**NAME:** Mr.U.C. Ugwuoke
+**NAME:** Mr U.C. Ugwuoke
 
 
