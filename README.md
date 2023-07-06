@@ -7,9 +7,12 @@ Design and Implementation of Electronic Health Records using Blockchain Technolo
 #Project by
 --------------------------------
 **NAME:** Martha Joseph Onojeta
+
 **MAT N0:** 2016/1/60938ct
 --------------------------------
 
 #Supervised by
 --------------------------------
-Mr U.C. Ugwuoke
+**NAME:** Mr.U.C. Ugwuoke
+
+
