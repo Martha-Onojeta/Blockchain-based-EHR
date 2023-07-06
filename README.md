@@ -1,9 +1,15 @@
-#tile
+#Title
 -------------------------------
-**NAME:** 
-**MAT N0:** 
+Design and Implementation of Electronic Health Records using Blockchain Technology
 ------------------------------
 
 
-#Supervisor
+#Project by
 --------------------------------
+**NAME:** Martha Joseph Onojeta
+**MAT N0:** 2016/1/60938ct
+--------------------------------
+
+#Supervised by
+--------------------------------
+Mr U.C. Ugwuoke
